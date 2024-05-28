@@ -6,10 +6,12 @@ Automatic Material Classification Smart Factory Project
 2022.12.28~2023.01.09.
 
 담당역할 : 
+
 -공정기계에서 가공된 소재가 분리 센서에서 인식된 후 분리
 -소재의 색상에 따라 분리하는 Pivot Arm Soter이 각각의 식별 번호에 따라 분리
 
 수행목표 :
+
 -Entry에서 나온 물품을 머시닝센터 작업을 통해 변환한 후 트레일러로 이동시켜 물품을 인식한 후 설정해 놓은 값에 따라 분류
 
 사용 기술 : 
